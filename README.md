@@ -7,4 +7,4 @@ input 작성 시 리스트 추가 되게 구현
 
 <img width="300" alt="스크린샷 2023-01-29 오후 9 37 50" src="https://user-images.githubusercontent.com/93914482/215327342-1edb8449-7584-4d3f-8d1e-c871b3a890d5.png">
 
-잘못된 url 작성시 오류메세지 뜨게 구현
+서버 응답에 대한 오류코드 처리
